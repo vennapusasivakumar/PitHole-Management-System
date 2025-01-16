@@ -1,0 +1,29 @@
+1.   Accessing the Application:
+     
+	To access the application visit the localhost address:  http://192.168.55.103/pothole arrival, you will be greeted with the 	application's landing page, where  you can register for a new account or log in if you already have an existing account.
+
+2. User Registration and Login:
+
+	If you're a new user, you'll need to register an account to access the system. Follow these steps:
+
+	Click on the "Register" button.:
+	Fill out the registration form with your details, including username, email address, and password.
+	Once registered, log in using your credentials.
+	If you already have an account, simply log in using your username and password.
+
+3. Reporting a Pothole:
+
+	To report a pothole, follow these steps:
+	After logging in, click on the "Report Pothole" button.
+	Use your mobile phone's camera to capture a photo of the pothole.
+	Fill out the report form with details about the pothole, such as location description and severity.
+	Click "Submit" to send the report.
+	The system will map the coordinates of the reported pothole along with your report.
+
+4. Accessing the Application with IPv4 Spoofing:
+
+	If you're accessing the application through IPv4 spoofing or multiple devices connected to the same IP address, ensure that each user registers and logs in with their unique credentials. This helps maintain accurate reporting and accountability.
+
+5. User Dashboard:
+
+	Once logged in, you'll have access to your user dashboard, where you can view your submitted reports, track the status of repairs, and provide feedback.
